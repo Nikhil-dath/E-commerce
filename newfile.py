@@ -2,7 +2,6 @@
 import os
 import shutil
 import tempfile
-import requests
 import zipfile
 import csv
 from bs4 import BeautifulSoup
